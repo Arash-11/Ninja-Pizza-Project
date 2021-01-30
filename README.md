@@ -1,1 +1,1 @@
-A collection of tutorial-related projects.
+Pizza Project by The Net Ninja's YouTube course.
